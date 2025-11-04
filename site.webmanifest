@@ -1,0 +1,21 @@
+{
+  "name": "نبض حكاية",
+  "short_name": "نبض حكاية",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/brahimgarzam/favicon-files5/main/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/brahimgarzam/favicon-files5/main/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#d1b46a",
+  "background_color": "#f5e6b8",
+  "display": "standalone"
+}
